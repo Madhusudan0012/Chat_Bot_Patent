@@ -1,6 +1,8 @@
 ﻿# Chat_Bot_Patent
 # Lumenci Assistant — Claim Chart Refinement (Prototype)
 
+[live] (velvety-druid-d627df.netlify.app)
+
 An AI-chat-based prototype for refining patent claim charts. Analysts upload a claim chart and supporting product documentation, then use conversational prompts to strengthen evidence, fix vague reasoning, flag missed claim elements, and export the refined chart to Word.
 
 Built as a take-home prototype — see [Scope & Design Decisions](#scope--design-decisions) below for what's real vs. scripted.
